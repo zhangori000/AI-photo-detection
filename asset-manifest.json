@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/my-pending-app/static/css/main.45086c6d.chunk.css",
-    "main.js": "/my-pending-app/static/js/main.c47bb644.chunk.js",
-    "main.js.map": "/my-pending-app/static/js/main.c47bb644.chunk.js.map",
-    "runtime-main.js": "/my-pending-app/static/js/runtime-main.14592b16.js",
-    "runtime-main.js.map": "/my-pending-app/static/js/runtime-main.14592b16.js.map",
-    "static/css/2.31461e4f.chunk.css": "/my-pending-app/static/css/2.31461e4f.chunk.css",
-    "static/js/2.7debed7b.chunk.js": "/my-pending-app/static/js/2.7debed7b.chunk.js",
-    "static/js/2.7debed7b.chunk.js.map": "/my-pending-app/static/js/2.7debed7b.chunk.js.map",
-    "static/js/3.4d940009.chunk.js": "/my-pending-app/static/js/3.4d940009.chunk.js",
-    "static/js/3.4d940009.chunk.js.map": "/my-pending-app/static/js/3.4d940009.chunk.js.map",
-    "index.html": "/my-pending-app/index.html",
-    "static/css/2.31461e4f.chunk.css.map": "/my-pending-app/static/css/2.31461e4f.chunk.css.map",
-    "static/css/main.45086c6d.chunk.css.map": "/my-pending-app/static/css/main.45086c6d.chunk.css.map",
-    "static/js/2.7debed7b.chunk.js.LICENSE.txt": "/my-pending-app/static/js/2.7debed7b.chunk.js.LICENSE.txt",
-    "static/media/jesus.d1a6a73d.png": "/my-pending-app/static/media/jesus.d1a6a73d.png"
+    "main.css": "/AI-photo-detection/static/css/main.45086c6d.chunk.css",
+    "main.js": "/AI-photo-detection/static/js/main.c47bb644.chunk.js",
+    "main.js.map": "/AI-photo-detection/static/js/main.c47bb644.chunk.js.map",
+    "runtime-main.js": "/AI-photo-detection/static/js/runtime-main.64c5eb3c.js",
+    "runtime-main.js.map": "/AI-photo-detection/static/js/runtime-main.64c5eb3c.js.map",
+    "static/css/2.31461e4f.chunk.css": "/AI-photo-detection/static/css/2.31461e4f.chunk.css",
+    "static/js/2.a5aa1d20.chunk.js": "/AI-photo-detection/static/js/2.a5aa1d20.chunk.js",
+    "static/js/2.a5aa1d20.chunk.js.map": "/AI-photo-detection/static/js/2.a5aa1d20.chunk.js.map",
+    "static/js/3.4d940009.chunk.js": "/AI-photo-detection/static/js/3.4d940009.chunk.js",
+    "static/js/3.4d940009.chunk.js.map": "/AI-photo-detection/static/js/3.4d940009.chunk.js.map",
+    "index.html": "/AI-photo-detection/index.html",
+    "static/css/2.31461e4f.chunk.css.map": "/AI-photo-detection/static/css/2.31461e4f.chunk.css.map",
+    "static/css/main.45086c6d.chunk.css.map": "/AI-photo-detection/static/css/main.45086c6d.chunk.css.map",
+    "static/js/2.a5aa1d20.chunk.js.LICENSE.txt": "/AI-photo-detection/static/js/2.a5aa1d20.chunk.js.LICENSE.txt",
+    "static/media/jesus.d1a6a73d.png": "/AI-photo-detection/static/media/jesus.d1a6a73d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.14592b16.js",
+    "static/js/runtime-main.64c5eb3c.js",
     "static/css/2.31461e4f.chunk.css",
-    "static/js/2.7debed7b.chunk.js",
+    "static/js/2.a5aa1d20.chunk.js",
     "static/css/main.45086c6d.chunk.css",
     "static/js/main.c47bb644.chunk.js"
   ]
